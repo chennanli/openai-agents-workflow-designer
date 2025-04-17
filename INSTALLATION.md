@@ -62,7 +62,7 @@ This document provides detailed instructions for setting up and running the Open
 ## Python Environment Setup (for Generated Code)
 
 ### Prerequisites
-- Python 3.9 or later
+- Python 3.11 or later
 - pip (latest version recommended)
 
 ### Setting Up a Virtual Environment

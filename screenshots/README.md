@@ -7,8 +7,7 @@ This directory is for storing screenshots of the application for documentation p
 Consider adding the following screenshots:
 
 1. **workflow-example.png** - An example workflow with multiple connected components
-2. **agent-properties.png** - The properties panel showing agent configuration
-3. **code-generation.png** - The code generation modal with generated Python code
+2. **code-generation.png** - The code generation modal with generated Python code
 
 ## How to Add Screenshots
 
@@ -16,5 +15,7 @@ Consider adding the following screenshots:
 2. Save them to this directory
 3. Reference them in the main README.md file using relative paths:
    ```markdown
-   ![Screenshot Description](./screenshots/your-screenshot.png)
+   ![app starting page, before drag/pull block](./app_starting_page.png)
+   ![after drag/drop block and connect, generate code](./after_dragblock_codegen.png)
+
    ```
