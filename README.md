@@ -2,7 +2,8 @@
 
 A web-based visual editor for creating OpenAI Agents workflows through a drag-and-drop interface, allowing you to generate corresponding Python code for the OpenAI Agents SDK. This project is replicate/learning from AI超元域.
 
-![Workflow Designer Screenshot](./screenshots/workflow-example.png)
+![Workflow Designer Screenshot](./screenshots/app_starting_page.png)
+![Code Generation Example](./screenshots/after_dragblock_codegen.png)
 
 ## Overview
 
