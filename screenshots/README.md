@@ -15,7 +15,7 @@ Consider adding the following screenshots:
 2. Save them to this directory
 3. Reference them in the main README.md file using relative paths:
    ```markdown
-   ![app starting page, before drag/pull block](./screenshots/app_starting_page.png)
-   ![after drag/drop block and connect, generate code](./screenshots/after_dragblock_codegen.png)
+   ![App Starting Page](./screenshots/app_starting_page.png)
+   ![Code Generation](./screenshots/after_dragblock_codegen.png)
 
    ```
